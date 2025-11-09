@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Colorful Building Blocks",
+    "price": 19.99,
+    "image": "https://i.pinimg.com/736x/8e/97/63/8e9763dfabcf532c7c212b5c662640c4.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Puzzle Set",
+    "price": 14.99,
+    "image": "https://i.pinimg.com/736x/d7/d9/99/d7d999e39eb9d2cb687de7c7fe533abc.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mini Racing Cars",
+    "price": 9.99,
+    "image": "https://i.pinimg.com/736x/94/a4/65/94a46505bd48caa057c8cdd83e35a538.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cute Plush Teddy Bear",
+    "price": 24.99,
+    "image": "https://images.pexels.com/photos/207891/pexels-photo-207891.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Toy Gun with Automatic Reloading",
+    "price": 17.99,
+    "image": "https://i.pinimg.com/736x/e2/5b/c5/e25bc5604bd2564cac0e995147675dd6.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Musical Toy Piano",
+    "price": 29.99,
+    "image": "https://i.pinimg.com/736x/49/24/03/4924030465644833cc234ec4fa701859.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lego Space Adventure Set",
+    "price": 34.99,
+    "image": "https://i.pinimg.com/736x/c2/ea/8b/c2ea8b4953a3132f24164f59a6e714f9.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Educational Robot Toy",
+    "price": 49.99,
+    "image": "https://i.pinimg.com/736x/27/12/3a/27123a62aac6689d5b22f8f255db2c17.jpg"
+  }
+]
