@@ -57,7 +57,7 @@ function Products() {
                       ${p.price}
                     </span>
                     <span className="bg-yellow-300 text-sky-800 text-xs px-3 py-1 rounded-full font-semibold group-hover:bg-yellow-400 group-hover:text-pink-700 transition">
-                      Play Now 🎮
+                      Buy now 🎮
                     </span>
                   </div>
                 </div>
@@ -71,3 +71,4 @@ function Products() {
 }
 
 export default Products;
+
