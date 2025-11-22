@@ -1,0 +1,16 @@
+[
+  {
+    "id": 3,
+    "name": "Mini Racing Cars",
+    "price": 9.99,
+    "image": "https://i.pinimg.com/736x/94/a4/65/94a46505bd48caa057c8cdd83e35a538.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "name": "Adventure Puzzle Set",
+    "price": 14.99,
+    "image": "https://i.pinimg.com/736x/d7/d9/99/d7d999e39eb9d2cb687de7c7fe533abc.jpg",
+    "quantity": 1
+  }
+]
